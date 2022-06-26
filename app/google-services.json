@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916670338715",
+    "project_id": "aunthentications-5b2b7",
+    "storage_bucket": "aunthentications-5b2b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916670338715:android:d5ef5f44512ac03534983e",
+        "android_client_info": {
+          "package_name": "com.gdsdesenvolvimento.aunthentications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916670338715-3ga8uhivphv7a7drq2q915h9mkenkhac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh0xOrx0byPPLNESB0jSCXi8ywpkX_yG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916670338715-3ga8uhivphv7a7drq2q915h9mkenkhac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
