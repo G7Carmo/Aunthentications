@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ProjetosAndroid/Kotlin/Authemtication/app/src/main/res/layout/activity_awsactivity.xml" value="0.24547101449275363" />
+        <entry key="..\:/ProjetosAndroid/Kotlin/Authemtication/app/src/main/res/layout/activity_google.xml" value="0.24547101449275363" />
         <entry key="..\:/ProjetosAndroid/Kotlin/Authemtication/app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="..\:/ProjetosAndroid/Kotlin/Authemtication/app/src/main/res/layout/activity_microsoft.xml" value="0.24547101449275363" />
         <entry key="..\:/ProjetosAndroid/Kotlin/Authemtication/app/src/main/res/layout/activity_options_provider_login.xml" value="0.2359375" />
+        <entry key="..\:/ProjetosAndroid/Kotlin/Authemtication/app/src/main/res/layout/activity_provedores_awsactivity.xml" value="0.24547101449275363" />
+        <entry key="..\:/ProjetosAndroid/Kotlin/Authemtication/app/src/main/res/layout/activity_provedores_azure.xml" value="0.24547101449275363" />
       </map>
     </option>
   </component>
